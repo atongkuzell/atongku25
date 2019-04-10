@@ -1,0 +1,14 @@
+{
+	"version": "1.0",
+	"components": [
+		"Microsoft.VisualStudio.Workload.Azure",
+		"microsoft.net.componentgroup.targetingpacks.common",
+		"microsoft.visualstudio.component.aspnet45",
+		"microsoft.visualstudio.component.webdeploy",
+		"microsoft.component.azure.datalake.tools",
+		"microsoft.visualstudio.componentgroup.azure.resourcemanager.tools",
+		"microsoft.visualstudio.componentgroup.azure.cloudservices",
+		"microsoft.visualstudio.component.azure.mobileappssdk",
+		"microsoft.visualstudio.component.azure.servicefabric.tools"
+	]
+}
